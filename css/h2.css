@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    list-style: none;
+    text-decoration: none;
+}
+.w-100{
+    width: 100%;
+}
+.w-1140{
+    width: 1140px;
+    margin: auto;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.bg{
+    background-color: blue;
+}
+.c-w{
+    color: #fff;
+}
+.text-c{
+    text-align: center;
+}
+.padd{
+    padding: 10px 0px;
+}
+.f-s{
+    font-size: 20px;
+}

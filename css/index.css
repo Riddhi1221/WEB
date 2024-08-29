@@ -1,0 +1,25 @@
+*{
+  margin: 0px;
+  padding: 0px;  
+}
+p
+{
+    font-size: large;
+    font-family: 'Courier New', monospace;
+    font-weight: 100;
+    font-style: normal;
+    font-variant: normal;
+}
+h1
+{
+    color: rgb(48, 119, 182);
+    text-align: center;
+    text-decoration: dashed;
+    text-transform: capitalize;
+    word-spacing: normal;
+    letter-spacing: normal;   
+}
+.ing
+{
+    background-image: ;
+}
